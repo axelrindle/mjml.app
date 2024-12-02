@@ -1,0 +1,15 @@
+{
+    "editor.foldingImportsByDefault": true,
+    "editor.defaultFormatter": null,
+    "editor.formatOnSave": true,
+    "editor.linkedEditing": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "[typescript]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+    },
+}
