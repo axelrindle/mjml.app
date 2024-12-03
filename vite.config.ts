@@ -48,7 +48,6 @@ export default defineConfig({
                         '@tanstack/react-router',
                         'class-variance-authority',
                         'clsx',
-                        'lucide-react',
                         'react-hook-form',
                         'tailwind-merge',
                         'tailwindcss-animate',
