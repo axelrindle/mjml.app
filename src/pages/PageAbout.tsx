@@ -1,5 +1,5 @@
 import AppLogo from '@/components/AppLogo'
-import pkg from '@/package'
+import pkg from '@/package.gen'
 
 export default function PageAbout() {
     return (
