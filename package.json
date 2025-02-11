@@ -48,7 +48,8 @@
         "zod": "^3.23.8"
     },
     "devDependencies": {
-        "@actcoding/eslint-config": "^0.0.8",
+        "@actcoding/eslint-config": "^0.0.9",
+        "@tailwindcss/typography": "^0.5.15",
         "@tanstack/eslint-plugin-query": "^5.61.4",
         "@tanstack/react-query-devtools": "^5.61.5",
         "@tanstack/router-devtools": "^1.70.0",
@@ -61,7 +62,7 @@
         "@types/react-dom": "^18.3.0",
         "@vitejs/plugin-react": "^4.3.2",
         "autoprefixer": "^10.4.20",
-        "eslint": "^9.11.1",
+        "eslint": "^9.16.0",
         "postcss": "^8.4.47",
         "tailwindcss": "^3.4.14",
         "type-fest": "^4.26.1",

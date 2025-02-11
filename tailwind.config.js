@@ -1,4 +1,5 @@
 import pluginAnimate from 'tailwindcss-animate'
+import pluginTypography from '@tailwindcss/typography'
 
 /** @type {import('tailwindcss').Config} */
 export default {
@@ -73,5 +74,6 @@ export default {
     },
     plugins: [
         pluginAnimate,
+        pluginTypography,
     ],
 }
