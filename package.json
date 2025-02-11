@@ -48,7 +48,7 @@
         "zod": "^3.23.8"
     },
     "devDependencies": {
-        "@actcoding/eslint-config": "^0.0.9",
+        "@actcoding/eslint-config": "^0.0.8",
         "@tailwindcss/typography": "^0.5.15",
         "@tanstack/eslint-plugin-query": "^5.61.4",
         "@tanstack/react-query-devtools": "^5.61.5",

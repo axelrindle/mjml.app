@@ -1,7 +1,7 @@
 import { configActDefault, configActReact } from '@actcoding/eslint-config'
 import pluginQuery from '@tanstack/eslint-plugin-query'
 
-/** @type import('eslint').Linter.Config[] */
+/** @type {import('eslint').Linter.Config[]} */
 const config = [
     ...configActDefault,
     ...configActReact,
