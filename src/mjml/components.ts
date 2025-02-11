@@ -75,6 +75,12 @@ const templates: Partial<Record<MjmlComponent, Partial<MJMLJsonObject>>> = {
     'mj-text': {
         content: 'Hello World',
     },
+    'mj-button': {
+        content: 'Click me',
+        attributes: {
+            href: '#',
+        },
+    },
 }
 
 /**
